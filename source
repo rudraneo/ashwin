@@ -1,0 +1,21 @@
+###KODIPROP:inputstreamaddon=inputstream.adaptive
+###KODIPROP:inputstream.adaptive.manifest_type=dash
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
+###EXTINF:-1 tvg-id="AstroSuperSport" ch-number="811" tvg-name="Astro SuperSport HD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD
+##https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+###KODIPROP:inputstreamaddon=inputstream.adaptive
+###KODIPROP:inputstream.adaptive.manifest_type=dash
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+###EXTINF:-1 tvg-id="AstroSuperSport" ch-number="811" tvg-name="Astro SuperSport HD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD
+##https://linear01-playback.sooka.my/CH1/masterCH1.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllqbGlZalUxWVdVdFpHWXpZUzAwWVRFeExUZzRaakl0WkROa01ESmlObUUyTkRSaiIsIndtb3BpZCI6MzIsImV4cCI6MTcxMDQ5NDcxMywiaWF0IjoxNzA5ODkwNzEzfQ.97Ey_fLy5ty6ii3gFNQfi-jOnzWnI7dCWgHap36IyFU"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroSuperSport" ch-number="811" tvg-name="Astro SuperSport HD" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd

@@ -1,3 +1,5 @@
+
+###KODIPROP:inputstreamaddon=inputstream.adaptive
 ###KODIPROP:inputstream.adaptive.manifest_type=dash
 ###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ###KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
